@@ -1,0 +1,16 @@
+/release/
+/*.zip
+/.publish/
+/.tools/
+/tests/*.exe
+/tests/*.dll
+/tests/*.pdb
+/tests/*.json
+/tests/*.png
+/tests/*-pid.txt
+/tests/package-verified/
+bin/
+obj/
+*.user
+*.suo
+*.log
